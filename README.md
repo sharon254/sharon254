@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sharon254
 - 👀 I’m interested in Cloud and Backend technologies
-- 🌱 I’m currently learning AWS, java and SpringBoot
+- 🌱 I’m currently learning AWS, Java and SpringBoot
 - 💞️ I’m looking to collaborate on Java Backend projects
 - 📫 How to reach me : https://twitter.com/Nyabuti_SK
 
