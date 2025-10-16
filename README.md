@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sharon254
-- 👀 I’m interested in Cloud and Backend technologies
-- 🌱 I’m currently learning AWS, Java and SpringBoot
-- 💞️ I’m looking to collaborate on Java Backend  and Flutterprojects
-- 📫 How to reach me : https://twitter.com/Nyabuti_SK
+- 👀 I’m interested in Data and Cloud
+- 🌱 I’m currently learning Gen AI 
+- 💞️ I’m looking to collaborate on Data Science and AI projects
+- 📫 How to reach me : sharonknyabuti@gmail.com
 
 
 <!---
